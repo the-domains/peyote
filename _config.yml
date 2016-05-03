@@ -1,0 +1,28 @@
+name: peyote
+favicon: null
+layout_spectrum: 0.1977958839852363
+typography_spectrum: 0.16583189787343144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7396281564142555
+  lightness: 0.4667651182971895
+  saturation: 0.7257843173574656
+  rhythmicContrast: 0.019368181470781565
+purpose: []
